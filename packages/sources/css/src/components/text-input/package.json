@@ -1,0 +1,40 @@
+{
+  "name": "@decathlon/vitamin-css-text-input",
+  "version": "0.0.1",
+  "keywords": [
+    "design-system",
+    "ui-kit",
+    "libraries",
+    "css",
+    "vitamin"
+  ],
+  "bugs": {
+    "url": "https://github.com/Decathlon/vitamin-web/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Decathlon/vitamin-web.git"
+  },
+  "license": "Apache-2.0",
+  "main": "dist/index.css",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "postcss src/index.css -o dist/index.css"
+  },
+  "devDependencies": {
+    "@decathlon/vitamin-css-design-tokens": "^0.0.1",
+    "@decathlon/vitamin-css-postcss-config": "^0.0.1",
+    "@decathlon/vitamin-css-tailwind-config": "^0.0.1"
+  },
+  "peerDependencies": {
+    "@decathlon/vitamin-css-design-tokens": "^0.0.1"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ]
+}
