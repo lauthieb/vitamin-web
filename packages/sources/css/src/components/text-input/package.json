@@ -28,9 +28,6 @@
     "@decathlon/vitamin-css-postcss-config": "^0.0.1",
     "@decathlon/vitamin-css-tailwind-config": "^0.0.1"
   },
-  "peerDependencies": {
-    "@decathlon/vitamin-css-design-tokens": "^0.0.1"
-  },
   "licenses": [
     {
       "type": "Apache-2.0",

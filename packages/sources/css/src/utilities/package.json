@@ -2,8 +2,8 @@
   "name": "@decathlon/vitamin-css-utilities",
   "version": "0.0.1",
   "description": "Decathlon Design System - Vitamin CSS utilities",
-  "main": "dist/index.css",
   "license": "Apache-2.0",
+  "main": "dist/index.css",
   "files": [
     "dist"
   ],

@@ -1,5 +1,4 @@
 /* Design tokens */
-@import '@decathlon/vitamin-css-design-tokens/src/breakpoints';
 @import '@decathlon/vitamin-css-design-tokens/src/colors';
 @import '@decathlon/vitamin-css-design-tokens/src/spacings';
 @import '@decathlon/vitamin-css-design-tokens/src/typography';
@@ -10,6 +9,7 @@
   .vtmn-text-input {
     box-shadow: inset 0 0 0 0.125rem transparent;
     min-width: calc(6 * 1rem);
+    border: 1px solid black;
 
     @apply vtmn-bg-white
       vtmn-font-display
@@ -22,7 +22,6 @@
       vtmn-no-underline
       vtmn-rounded
       vtmn-h-8
-      vtmn-border-1
       vtmn-box-border
       vtmn-overflow-hidden
       vtmn-text-center

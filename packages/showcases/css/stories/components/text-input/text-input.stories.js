@@ -1,7 +1,7 @@
 import _default from './examples/default.html';
 
 export default {
-  title: 'Components / Text Input',
+  title: 'Components / Text input',
   argTypes: { onchange: { action: 'write' } },
   parameters: {
     actions: {
