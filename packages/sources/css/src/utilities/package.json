@@ -1,21 +1,7 @@
 {
-  "name": "@decathlon/vitamin-css-button",
+  "name": "@decathlon/vitamin-css-utilities",
   "version": "0.0.1",
-  "description": "Decathlon Design System - Vitamin CSS button component",
-  "keywords": [
-    "design-system",
-    "ui-kit",
-    "libraries",
-    "css",
-    "vitamin"
-  ],
-  "bugs": {
-    "url": "https://github.com/Decathlon/vitamin-web/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Decathlon/vitamin-web.git"
-  },
+  "description": "Decathlon Design System - Vitamin CSS utilities",
   "license": "Apache-2.0",
   "main": "dist/index.css",
   "files": [
@@ -28,9 +14,6 @@
     "@decathlon/vitamin-css-design-tokens": "^0.0.1",
     "@decathlon/vitamin-css-postcss-config": "^0.0.1",
     "@decathlon/vitamin-css-tailwind-config": "^0.0.1"
-  },
-  "peerDependencies": {
-    "@decathlon/vitamin-css-design-tokens": "^0.0.1"
   },
   "licenses": [
     {
