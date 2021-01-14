@@ -1,3 +1,3 @@
-# `@decathlon/vitamin-css-text-input`
+# `@vtmn/css-button`
 
-> CSS standalone text input component of Vitamin Web
+> Decathlon Design System - Vitamin CSS styles for text input
